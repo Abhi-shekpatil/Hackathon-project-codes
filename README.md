@@ -4,11 +4,19 @@ This challenge is the capstone project of the Summer Analytics, a primer course 
 Data Description
 
  -date: the date on which the ad was made live
+ 
  -campaign: campaign number
+ 
  -adgroup: adgroup number
+ 
  -ad: ad number
+ 
  -impressions - Number of time the ad was shown
+ 
  -clicks - Number of time the ad clicked shown
+ 
  -cost - Amount spent to show ad
+ 
  -conversions - Number of transactions received
+ 
  -revenue: revenue generated from the ad
